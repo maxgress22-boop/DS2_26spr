@@ -8,8 +8,12 @@ format: html
 Complete the following tasks:
 
 1.  Pull from GitHub (this won't do anything now, but it's a good workflow habit when you open a project)
-2.  Change "Your Name" in the author to your name
-3.  Save your file
-4.  Commit your change
-5.  Push the file to GitHub
-6.  Go to GitHub and check that the file has changed
+2.  Grab the following files from the maposner/DS2_26spr repo and put them into your new repo
+    -   [Your Turn.qmd](https://github.com/maposner/DS2_26spr/blob/main/Your%20Turn.Rmd)
+    -   [HW8 Instructions.qmd](https://github.com/maposner/DS2_26spr/blob/main/HW8%20Instructions.qmd)
+    -   [Linking GitHub and RStudio.qmd](https://github.com/maposner/DS2_26spr/blob/main/Linking%20GitHub%20with%20RStudio.qmd)
+3.  Change "Your Name" in the author to your name
+4.  Save your file
+5.  Commit your change
+6.  Push the file to GitHub
+7.  Go to GitHub and check that the file has changed

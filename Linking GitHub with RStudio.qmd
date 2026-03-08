@@ -1,7 +1,9 @@
 ---
 title: "Linking GitHub and RStudio"
 author: "Michael A. Posner"
-format: html
+format: 
+  html:
+    embed-resources: true
 ---
 
 Link RStudio to your GitHub account by doing the following.
