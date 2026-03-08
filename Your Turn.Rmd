@@ -17,6 +17,8 @@ Complete the following tasks:
     b.  ...in *RStudio*'s *Git* tab
     c.  ...in your present working directory on your machine
     d.  ...NOT on GitHub
+    e.  (note the message *"Your branch is ahead of 'origin/main' by 1 commit."* in the *Git* tab)
 4.  Push the file, then confirm that...
     a.  ...it's now located on GitHub
     b.  ...it's no longer in *RStudio*'s *Git* tab
+    c.  (the message went away)
